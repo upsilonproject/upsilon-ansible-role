@@ -36,7 +36,7 @@ galaxy_info:
   #   - 1.0
   #   - 7
   #   - 99.99
-  playforms:
+  platforms:
     - name: CentOS
       versions:
         - 7
